@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Map
   - Ball
+  - GrabArea
   layers:
   - Default
   - TransparentFX
